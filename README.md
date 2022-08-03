@@ -8,7 +8,8 @@ Anyway, Have a great time using XUN4Arcade, and remember if you find a bug in an
 ## How To Install
 
 installing is pretty easy, it's juat three simple steps!
+after theese 3 simple steps you ashould be ready to use XUN4Arcade, enjoy!
 1. Download the code as a .zip file
 2. Extract the .zip fle
 3. move the .uf2 file to your arcade
-and you're done! you are now ready to use XUN4Arcade, enjoy!
+
