@@ -1,33 +1,6 @@
- 
+## XUN4Arcade
 
-
-> Open this page at [https://diskynorsk.github.io/xun4arcade/](https://diskynorsk.github.io/xun4arcade/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/diskynorsk/xun4arcade** and import
-
-## Edit this project ![Build status badge](https://github.com/diskynorsk/xun4arcade/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/diskynorsk/xun4arcade** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/diskynorsk/xun4arcade/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Hello, and welcome to the XUN4Arcade respotory!
+XUN4Arcade is a small and simple Operating system made with https://arcade.makecode.com with the Kitronik Arcade in mind.
+XUN4Arcade is really just an Arcade port to https://scratch.mit.edu/projects/501308682/ whitch i just made for fun because why not lol
+Anyway, Have a great time using XUN4Arcade, and remember if you find a bug in any of the versions of XUN, please report it to me. bye!
